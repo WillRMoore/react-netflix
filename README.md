@@ -1,6 +1,7 @@
 ![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot.jpg)
 
-<h2>Fetches data from The MovieDB API:</h2>
+<hr />
+<h3>Fetches data from The MovieDB API:</h3>
 
 ![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot2.jpg)
 
