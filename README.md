@@ -5,11 +5,13 @@
 
 ![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot2.jpg)
 
-<h2>Description overlay pops up when you hover over a movie:</h2>
+<hr />
+<h3>Description overlay pops up when you hover over a movie:</h3>
 
 ![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot3.jpg)
 
-<h2>Search component allows you to search theMovieDB database:</h2>
+<hr />
+<h3>Search component allows you to search theMovieDB database:</h3>
 
 ![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot4.jpg)
 
