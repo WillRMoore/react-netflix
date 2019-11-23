@@ -1,14 +1,13 @@
-![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot.png)
+![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot.jpg)
 
 Fetches data from The MovieDB API:
-![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot2.png)
+![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot2.jpg)
 
 Description overlay pops up when you hover over a movie:
-![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot3.png)
+![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot3.jpg)
 
 Search component allows you to search theMovieDB database:
-Description overlay pops up when you hover over a movie
-![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot4.png)
+![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot4.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
