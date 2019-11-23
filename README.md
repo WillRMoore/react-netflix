@@ -1,6 +1,6 @@
 ![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot.jpg)
 
-Fetches data from The MovieDB API:
+<h2>Fetches data from The MovieDB API:</h2>
 ![React Calculator](https://github.com/DamirMoore/react-netflix/blob/master/screenshot2.jpg)
 
 Description overlay pops up when you hover over a movie:
