@@ -1,0 +1,23 @@
+.hero-button {
+  border-radius: 19px;
+  border: solid 1.8px rgba(73, 73, 73, 1);
+  cursor: pointer;
+  color: #fff;
+  background: none;
+  padding: 9px;
+  padding-left: 18px;
+  padding-right: 18px;
+  outline: none;
+}
+.hero-button:hover {
+  border: solid 1.8px #fff;
+}
+
+.hero-button[primary="true"] {
+  border: solid 1.8px #b81d24;
+  margin-right: 0.5rem;
+  margin-top: 1rem;
+}
+.hero-button[primary="true"]:hover {
+  background: #b81d24;
+}

@@ -1,0 +1,72 @@
+.movie-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+
+  max-width: 1150px;
+  margin: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.movie-section {
+  flex: 0 0 200px;
+  height: 8rem;
+  cursor: pointer;
+  position: relative;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  transition: flex-grow 0.5s, height 0.5s;
+}
+.movie-section:first-of-type {
+  margin-left: 0;
+}
+.movie-section:hover {
+  flex-grow: 1;
+  height: 12rem;
+  max-width: 500px;
+}
+.movie-section:hover .title-list-overlay {
+  height: 12rem;
+  visibility: visible;
+}
+
+.movie-section img {
+  width: 100%;
+}
+
+.category-title {
+  margin-left: 0.5rem;
+  text-align: start;
+}
+
+.rating {
+  margin-top: -1rem;
+  margin-bottom: -1rem;
+}
+
+.title-list-overlay {
+  background-color: rgba(61, 61, 61, 0.6);
+  position: absolute;
+  top: 0;
+  height: 8rem;
+  overflow: hidden;
+  visibility: hidden;
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+  transition: height 0.5s;
+}
+/* .title-list-overlay:hover {
+  height: 12rem;
+} */
