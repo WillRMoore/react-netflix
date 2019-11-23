@@ -1,3 +1,15 @@
+![React Calculator](https://github.com/DamirMoore/react-calculator/blob/master/screenshot.png)
+
+Fetches data from The MovieDB API:
+![React Calculator](https://github.com/DamirMoore/react-calculator/blob/master/screenshot2.png)
+
+Description overlay pops up when you hover over a movie:
+![React Calculator](https://github.com/DamirMoore/react-calculator/blob/master/screenshot3.png)
+
+Search component allows you to search theMovieDB database:
+Description overlay pops up when you hover over a movie
+![React Calculator](https://github.com/DamirMoore/react-calculator/blob/master/screenshot4.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
